@@ -108,7 +108,6 @@ function unicodeProgressBar(p, style = 7, min_size = 20, max_size = 20) {
   return r;
 }
 
-
 (async () => {
   await main();
 })();
